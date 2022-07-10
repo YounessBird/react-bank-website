@@ -58,7 +58,7 @@ export const StyledForm = styled.form`
   padding: 0 20px;
   width: 100%;
   h3 {
-    color: grey;
+    color: black;
     margin-bottom: 2rem;
   }
 `;

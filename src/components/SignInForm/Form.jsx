@@ -17,9 +17,6 @@ const Form = () => {
       <FormBackground>
         <FormContainer>
           <FormContent>
-            <LogoContainer>
-              <Logo dark />
-            </LogoContainer>
             <StyledForm>
               <h3>Sign In</h3>
               <Input placeholder="Email or UserName" />
