@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/react-bank-website/static/js/main.e63d3df1.chunk.js",
+    "main.js.map": "/react-bank-website/static/js/main.e63d3df1.chunk.js.map",
+    "runtime-main.js": "/react-bank-website/static/js/runtime-main.9dff765e.js",
+    "runtime-main.js.map": "/react-bank-website/static/js/runtime-main.9dff765e.js.map",
+    "static/js/2.14a1fd63.chunk.js": "/react-bank-website/static/js/2.14a1fd63.chunk.js",
+    "static/js/2.14a1fd63.chunk.js.map": "/react-bank-website/static/js/2.14a1fd63.chunk.js.map",
+    "index.html": "/react-bank-website/index.html",
+    "static/js/2.14a1fd63.chunk.js.LICENSE.txt": "/react-bank-website/static/js/2.14a1fd63.chunk.js.LICENSE.txt",
+    "static/media/BitCoin.jpg": "/react-bank-website/static/media/BitCoin.92add203.jpg",
+    "static/media/Investment-data.svg": "/react-bank-website/static/media/Investment-data.3110caa9.svg",
+    "static/media/premium-benefits.20750a9d.svg": "/react-bank-website/static/media/premium-benefits.20750a9d.svg",
+    "static/media/reduce-expenses.svg": "/react-bank-website/static/media/reduce-expenses.198c8835.svg",
+    "static/media/saving.svg": "/react-bank-website/static/media/saving.5f11287c.svg",
+    "static/media/video.7d1ea6a9.mp4": "/react-bank-website/static/media/video.7d1ea6a9.mp4",
+    "static/media/virtual-offices.d51ebfa6.svg": "/react-bank-website/static/media/virtual-offices.d51ebfa6.svg",
+    "static/media/wallet.d1318bbb.svg": "/react-bank-website/static/media/wallet.d1318bbb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dff765e.js",
+    "static/js/2.14a1fd63.chunk.js",
+    "static/js/main.e63d3df1.chunk.js"
+  ]
+}
